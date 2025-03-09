@@ -79,7 +79,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>me.dio.Application</mainClass>
+							<mainClass>br.com.gabriel.api_dio_bootcamp.ApiDioBootcampApplication</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
